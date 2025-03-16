@@ -5,7 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "jest --detectOpenHandles"
+    "test": "jest --detectOpenHandles",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:api": "jest src/api",
+    "test:services": "jest src/services",
+    "test:utils": "jest src/utils"
   },
   "jest": {
     "testEnvironment": "node",
