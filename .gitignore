@@ -1,2 +1,22 @@
+# Dependências
 node_modules/
+
+# Variáveis de ambiente
 .env
+
+# Diretório de build
+build/
+
+# Relatórios de cobertura de testes
+coverage/
+
+# Arquivos de log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos temporários
+.DS_Store
+.tmp
+.temp

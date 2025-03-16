@@ -70,16 +70,6 @@
     "priceLevel": "Not available"
   },
   {
-    "name": "Geko Pousada Paraty",
-    "address": "Av. Orlando Carpinelli, 111 - Pontal, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 2107-3887",
-    "website": "http://www.gekopousada.com/",
-    "rating": 4.2,
-    "totalRatings": 652,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
     "name": "HOTELARE Hotel Brunello Paraty",
     "address": "Av. Jabaquara, 14 - Jabaquara, Paraty - RJ, 23970-000, Brazil",
     "phoneNumber": "(24) 98843-6825",
@@ -110,16 +100,6 @@
     "priceLevel": "Not available"
   },
   {
-    "name": "Pousada Jardins Paraty | Pousada Próxima ao Centro Histórico Paraty, Pousada com Piscina",
-    "address": "Alameda Flamboyant, 125 - Parque Ypê, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 97403-5869",
-    "website": "https://wa.me/5524974035869?text=Ol%C3%A1%20vim%20pelo%20Google%20e%20gostaria%20de%20saber%20mais!",
-    "rating": 4.8,
-    "totalRatings": 40,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
     "name": "Pousada Estrela do Mar Paraty",
     "address": "R. Dom Pedro I, 145 - Jabaquara, Paraty - RJ, 23970-000, Brazil",
     "phoneNumber": "(24) 3038-0412",
@@ -136,6 +116,16 @@
     "website": "https://www.instagram.com/paraty_pousadaroma?igsh=MXJxOHExaWJhcnFxcQ==",
     "rating": 4.5,
     "totalRatings": 203,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Geko Pousada Paraty",
+    "address": "Av. Orlando Carpinelli, 111 - Pontal, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 2107-3887",
+    "website": "http://www.gekopousada.com/",
+    "rating": 4.2,
+    "totalRatings": 652,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
@@ -186,6 +176,16 @@
     "website": "https://api.whatsapp.com/send?l=pt-BR&phone=24999630620&text=Ol%C3%A1%2C%20Vim%20pelo%20Google.",
     "rating": 3.9,
     "totalRatings": 33,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Pousada cores do mar",
+    "address": "R. 22 de Abril, 74 - Praia Jabaquara, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99273-5775",
+    "website": "https://wa.me/5524992735775?text=Ol%C3%A1%20vim%20pelo%20Google%20e%20quero%20saber%20mais!",
+    "rating": 4.3,
+    "totalRatings": 452,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
