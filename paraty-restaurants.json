@@ -220,22 +220,22 @@
     "priceLevel": "Not available"
   },
   {
-    "name": "Thai Paraty Matriz",
-    "address": "R. Ten. Francisco Antonio, 371 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3371-2772",
-    "website": "No website",
-    "rating": 4.8,
-    "totalRatings": 772,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
     "name": "Sancho Pança",
     "address": "x - Rod. Parati - Cunha, 102 - Ponte Branca, Paraty - RJ, 23970-000, Brazil",
     "phoneNumber": "(24) 99999-3110",
     "website": "http://www.sanchopanca.com.br/",
     "rating": 4.6,
     "totalRatings": 1903,
+    "status": "OPERATIONAL",
+    "priceLevel": ""
+  },
+  {
+    "name": "Oui Paraty",
+    "address": "R. Santa Rita, 190 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99952-0050",
+    "website": "https://m.facebook.com/ouiparaty/?locale2=pt_BR",
+    "rating": 4.7,
+    "totalRatings": 805,
     "status": "OPERATIONAL",
     "priceLevel": ""
   }

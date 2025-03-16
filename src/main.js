@@ -52,6 +52,7 @@ async function main() {
 }
 
 // Only run the main function if this file is being executed directly
+// Verifique se a função main está sendo chamada
 if (require.main === module) {
   main().catch(error => {
     console.error('An error occurred:', error);

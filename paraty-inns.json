@@ -110,6 +110,16 @@
     "priceLevel": "Not available"
   },
   {
+    "name": "Pousada Jardins Paraty | Pousada Próxima ao Centro Histórico Paraty, Pousada com Piscina",
+    "address": "Alameda Flamboyant, 125 - Parque Ypê, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 97403-5869",
+    "website": "https://wa.me/5524974035869?text=Ol%C3%A1%20vim%20pelo%20Google%20e%20gostaria%20de%20saber%20mais!",
+    "rating": 4.8,
+    "totalRatings": 40,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
     "name": "Pousada Estrela do Mar Paraty",
     "address": "R. Dom Pedro I, 145 - Jabaquara, Paraty - RJ, 23970-000, Brazil",
     "phoneNumber": "(24) 3038-0412",
@@ -190,32 +200,12 @@
     "priceLevel": "Not available"
   },
   {
-    "name": "Pousada Villa Del Sol Paraty | Pousada com Piscina Privativa em Paraty, Com Banheira de Hidromassagem",
-    "address": "R. Floresta, 124 - Parque Imperial, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3372-1400",
-    "website": "http://www.villadelsol.com.br/",
-    "rating": 4.2,
-    "totalRatings": 2021,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
     "name": "Pousada das Saíras",
     "address": "R. das Saíras, 199 - Caborê, Paraty - RJ, 23970-000, Brazil",
     "phoneNumber": "(24) 99937-3605",
     "website": "No website",
     "rating": 4.8,
     "totalRatings": 97,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
-    "name": "Pousada Manaca",
-    "address": "R. Anazita de Alvarenga, 14/56 - Parque Ypê, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99841-8751",
-    "website": "http://www.manacaparaty.com.br/",
-    "rating": 4.8,
-    "totalRatings": 192,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
