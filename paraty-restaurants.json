@@ -1,13 +1,33 @@
 [
   {
+    "name": "Quintal Verde",
+    "address": "R. Domingos Gonçalves de Abreu, 198 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(11) 98934-3607",
+    "website": "No website",
+    "rating": 4.5,
+    "totalRatings": 2943,
+    "status": "OPERATIONAL",
+    "priceLevel": ""
+  },
+  {
     "name": "Restaurante Banana da Terra",
     "address": "R. Dr. Samuel Costa, 198 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
     "phoneNumber": "(24) 99328-2688",
     "website": "https://www.restaurantebananadaterra.com.br/",
     "rating": 4.4,
-    "totalRatings": 2386,
+    "totalRatings": 2387,
     "status": "OPERATIONAL",
     "priceLevel": ""
+  },
+  {
+    "name": "Restaurante Vinicius Paraty (Caiçara e Vegana )",
+    "address": "Rua da Matriz - esquina com - R. Mal. Santos Dias - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99306-4031",
+    "website": "https://linktr.ee/restauranteviniciusparaty",
+    "rating": 4.8,
+    "totalRatings": 469,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
   },
   {
     "name": "Quintal das Letras",
@@ -20,22 +40,32 @@
     "priceLevel": "Not available"
   },
   {
-    "name": "İstanbul Paraty",
-    "address": "R. Manoel Tôrres - Parque Imperial, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99322-8241",
-    "website": "https://www.instagram.com/istanbulparaty/",
-    "rating": 4.7,
-    "totalRatings": 1232,
-    "status": "OPERATIONAL",
-    "priceLevel": ""
-  },
-  {
     "name": "Casa Coupê Restaurante",
     "address": "Praça Monsenhor Hélio Píres, 6 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
     "phoneNumber": "(24) 99323-5275",
     "website": "http://www.instagram.com/casacoupeparaty",
     "rating": 4.3,
     "totalRatings": 2962,
+    "status": "OPERATIONAL",
+    "priceLevel": ""
+  },
+  {
+    "name": "Vila Margarida Paraty",
+    "address": "R. Lourival Valentim dos Santos, 99 - Portao de Ferro 2, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99317-2109",
+    "website": "No website",
+    "rating": 4.3,
+    "totalRatings": 1379,
+    "status": "OPERATIONAL",
+    "priceLevel": ""
+  },
+  {
+    "name": "Refúgio Restaurante",
+    "address": "Praça da Bandeira, 5 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99875-2447",
+    "website": "No website",
+    "rating": 4.2,
+    "totalRatings": 1404,
     "status": "OPERATIONAL",
     "priceLevel": ""
   },
@@ -50,32 +80,12 @@
     "priceLevel": ""
   },
   {
-    "name": "Arte e Sabor",
-    "address": "R. Dr. Samuel Costa, 245 - Centro, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99847-2092",
-    "website": "https://instagram.com/arteesaborparaty?utm_medium=copy_link",
-    "rating": 4.8,
-    "totalRatings": 2884,
-    "status": "OPERATIONAL",
-    "priceLevel": ""
-  },
-  {
-    "name": "Tomahawk Steakhouse Paraty",
-    "address": "Portão de Ferro I - Av. Roberto Silveira, 1324 - loja 5 - Portao de Ferro 2, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99323-8146",
-    "website": "https://www.instagram.com/tomahawkparaty/",
+    "name": "İstanbul Paraty",
+    "address": "R. Manoel Tôrres - Parque Imperial, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99322-8241",
+    "website": "https://www.instagram.com/istanbulparaty/",
     "rating": 4.7,
-    "totalRatings": 471,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
-    "name": "Restaurante Quintal de Mãe",
-    "address": "R. D Manoel, 51 - Jabaquara, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99833-5168",
-    "website": "https://www.instagram.com/quintaldemaeparaty/",
-    "rating": 4.8,
-    "totalRatings": 424,
+    "totalRatings": 1232,
     "status": "OPERATIONAL",
     "priceLevel": ""
   },
@@ -90,24 +100,34 @@
     "priceLevel": ""
   },
   {
-    "name": "Caramujo",
-    "address": "R. Domingos Gonçalves de Abreu, 328 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3371-1913",
+    "name": "A Tasca",
+    "address": "R. Pres. Pedreira - Centro, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99973-7318",
     "website": "No website",
-    "rating": 4.4,
-    "totalRatings": 981,
+    "rating": 4.8,
+    "totalRatings": 155,
     "status": "OPERATIONAL",
     "priceLevel": ""
   },
   {
-    "name": "Sabor Da Terra | Restaurante Self Service Por Kg, No Centro de Paraty, Música Ao Vivo, Pizzaria, Restaurante Romântico",
-    "address": "Av. Roberto Silveira, 618 - centro, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3371-2384",
-    "website": "https://www.instagram.com/sabordaterraparaty/",
-    "rating": 4.3,
-    "totalRatings": 593,
+    "name": "Arte e Sabor",
+    "address": "R. Dr. Samuel Costa, 245 - Centro, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99847-2092",
+    "website": "https://instagram.com/arteesaborparaty?utm_medium=copy_link",
+    "rating": 4.8,
+    "totalRatings": 2885,
     "status": "OPERATIONAL",
     "priceLevel": ""
+  },
+  {
+    "name": "Restaurante Caminho Do Ouro",
+    "address": "R. Dr. Samuel Costa, 236 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 98876-1899",
+    "website": "No website",
+    "rating": 4.6,
+    "totalRatings": 688,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
   },
   {
     "name": "LaDolceVita Pizzeria e Trattoria Paraty",
@@ -115,29 +135,9 @@
     "phoneNumber": "(24) 3371-1059",
     "website": "https://pizzariaparatyladolcevita.com.br/",
     "rating": 4.6,
-    "totalRatings": 2085,
+    "totalRatings": 2087,
     "status": "OPERATIONAL",
     "priceLevel": ""
-  },
-  {
-    "name": "Refúgio Restaurante",
-    "address": "Praça da Bandeira, 5 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99875-2447",
-    "website": "No website",
-    "rating": 4.2,
-    "totalRatings": 1403,
-    "status": "OPERATIONAL",
-    "priceLevel": ""
-  },
-  {
-    "name": "Burgerang & Paraty Petiscos",
-    "address": "Centro de - R. Mal. Deodoro, 646 - Fatima, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "No phone number",
-    "website": "https://www.instagram.com/paratypetiscos/",
-    "rating": 4.9,
-    "totalRatings": 726,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
   },
   {
     "name": "Margarida Café Paraty",
@@ -145,37 +145,57 @@
     "phoneNumber": "(24) 99319-5724",
     "website": "https://www.instagram.com/margaridacafe",
     "rating": 4.5,
-    "totalRatings": 3991,
+    "totalRatings": 3992,
     "status": "OPERATIONAL",
     "priceLevel": ""
   },
   {
-    "name": "Prosa Restaurante",
-    "address": "R. da Cadeia, 267 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3371-2695",
-    "website": "https://www.instagram.com/restauranteprosa?igsh=NWhseDQzaGo2Mw==",
-    "rating": 4.5,
-    "totalRatings": 1071,
+    "name": "Restaurante Quintal de Mãe",
+    "address": "R. D Manoel, 51 - Jabaquara, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99833-5168",
+    "website": "https://www.instagram.com/quintaldemaeparaty/",
+    "rating": 4.8,
+    "totalRatings": 424,
     "status": "OPERATIONAL",
     "priceLevel": ""
   },
   {
-    "name": "Van Gogh Hamburgueria",
-    "address": "R. Dr. Samuel Costa, 248 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "No phone number",
-    "website": "https://www.instagram.com/vangoghparaty/",
+    "name": "Quintal da Vó Hamburgueria Artesanal",
+    "address": "R. Mal. Deodoro, 264 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99234-5628",
+    "website": "No website",
+    "rating": 4.8,
+    "totalRatings": 2095,
+    "status": "OPERATIONAL",
+    "priceLevel": ""
+  },
+  {
+    "name": "Tomahawk Steakhouse Paraty",
+    "address": "Portão de Ferro I - Av. Roberto Silveira, 1324 - loja 5 - Portao de Ferro 2, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99323-8146",
+    "website": "https://www.instagram.com/tomahawkparaty/",
     "rating": 4.7,
-    "totalRatings": 1635,
+    "totalRatings": 471,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Sarau Paraty",
+    "address": "R. Mal. Deodoro, 241 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 3371-2924",
+    "website": "https://www.instagram.com/sarauparaty/",
+    "rating": 4.4,
+    "totalRatings": 2305,
     "status": "OPERATIONAL",
     "priceLevel": ""
   },
   {
-    "name": "Restaurante Chafariz",
-    "address": "R. Domingos Gonçalves de Abreu, 285 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99999-9589",
-    "website": "https://m.facebook.com/chafarizparaty/?locale2=pt_BR",
+    "name": "Caramujo",
+    "address": "R. Domingos Gonçalves de Abreu, 328 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 3371-1913",
+    "website": "No website",
     "rating": 4.4,
-    "totalRatings": 1337,
+    "totalRatings": 981,
     "status": "OPERATIONAL",
     "priceLevel": ""
   },
@@ -190,14 +210,14 @@
     "priceLevel": ""
   },
   {
-    "name": "Sarau Paraty",
-    "address": "R. Mal. Deodoro, 241 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3371-2924",
-    "website": "https://www.instagram.com/sarauparaty/",
-    "rating": 4.4,
-    "totalRatings": 2304,
+    "name": "Moquecaria Captain Folk Frutos do Mar",
+    "address": "R. sete de Abril, 637 - Jabaquara, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "No phone number",
+    "website": "No website",
+    "rating": 4.9,
+    "totalRatings": 266,
     "status": "OPERATIONAL",
-    "priceLevel": ""
+    "priceLevel": "Not available"
   },
   {
     "name": "Sancho Pança",
@@ -210,32 +230,12 @@
     "priceLevel": ""
   },
   {
-    "name": "Batata Baroa",
-    "address": "Alameda Princesa Isabel, 111 - Pontal, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3038-0318",
-    "website": "https://www.instagram.com/restaurantebatatabaroa?igsh=MXFsbDJzenAzYXQxaQ==",
+    "name": "Oui Paraty",
+    "address": "R. Santa Rita, 190 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99952-0050",
+    "website": "https://m.facebook.com/ouiparaty/?locale2=pt_BR",
     "rating": 4.7,
-    "totalRatings": 1625,
-    "status": "OPERATIONAL",
-    "priceLevel": ""
-  },
-  {
-    "name": "Restaurante Gastromar",
-    "address": "BR101 km 578 - Boa Vista, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99844-3788",
-    "website": "http://www.gastromarparaty.com/",
-    "rating": 4.6,
-    "totalRatings": 155,
-    "status": "OPERATIONAL",
-    "priceLevel": ""
-  },
-  {
-    "name": "Restaurante e Pizzaria Punto Divino",
-    "address": "R. Mal. Deodoro, 129 - Centro Histórico, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "No phone number",
-    "website": "https://puntodivino.com/",
-    "rating": 4.4,
-    "totalRatings": 1333,
+    "totalRatings": 806,
     "status": "OPERATIONAL",
     "priceLevel": ""
   }
