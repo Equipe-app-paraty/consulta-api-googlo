@@ -1,21 +1,21 @@
 [
   {
-    "name": "Pousada Alecrim Dourado",
-    "address": "R. José Viêira Ramos, 6 - Patitiba, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3371-1955",
-    "website": "https://pousadaalecrimdourado.com.br/",
-    "rating": 4.3,
-    "totalRatings": 134,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
     "name": "Pousada Casa do Rio Hostel Paraty",
     "address": "R. Antônio de Oliveira Vidal, 144 - chácara, Paraty - RJ, 23970-000, Brazil",
     "phoneNumber": "(24) 3371-2223",
     "website": "https://www.pousadacasadorio.com.br/",
     "rating": 4.5,
-    "totalRatings": 1185,
+    "totalRatings": 1196,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Pousada Alecrim Dourado",
+    "address": "R. José Viêira Ramos, 6 - Patitiba, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 3371-1955",
+    "website": "https://pousadaalecrimdourado.com.br/",
+    "rating": 4.3,
+    "totalRatings": 137,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
@@ -25,7 +25,17 @@
     "phoneNumber": "(24) 99991-2812",
     "website": "https://api.whatsapp.com/send?phone=552499991281&text=Ol%C3%A1,%20te%20encontrei%20no%20Google%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.",
     "rating": 4.8,
-    "totalRatings": 250,
+    "totalRatings": 296,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Refron du Mar Pousada Paraty",
+    "address": "Av. Orlando Carpinelli, 99 - Pontal, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 3371-4082",
+    "website": "http://pousadaparaty.online/",
+    "rating": 4,
+    "totalRatings": 174,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
@@ -35,37 +45,7 @@
     "phoneNumber": "(24) 99825-0321",
     "website": "http://www.pousadamarecheia.com.br/",
     "rating": 4.3,
-    "totalRatings": 265,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
-    "name": "Pousada Marques",
-    "address": "R. Profa. Rosária Gibrail, 155 - Patitiba, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3371-2189",
-    "website": "No website",
-    "rating": 4.3,
-    "totalRatings": 279,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
-    "name": "Pousada Conchas de Paraty",
-    "address": "R. das Acácias, 11 - LOTE 08 - Caborê, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3371-2799",
-    "website": "http://www.conchasdeparaty.com.br/",
-    "rating": 4.2,
-    "totalRatings": 345,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
-    "name": "Pousada Aqui é Parati",
-    "address": "Rua Sabiá, 02 - Caborê, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3371-1514",
-    "website": "No website",
-    "rating": 4,
-    "totalRatings": 608,
+    "totalRatings": 274,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
@@ -75,7 +55,57 @@
     "phoneNumber": "(24) 98843-6825",
     "website": "https://hotelare.com/brunello/pt/",
     "rating": 4.4,
-    "totalRatings": 776,
+    "totalRatings": 787,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Pousada Aqui é Parati",
+    "address": "Rua Sabiá, 02 - Caborê, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 3371-1514",
+    "website": "No website",
+    "rating": 4,
+    "totalRatings": 612,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Geko Pousada Paraty",
+    "address": "Av. Orlando Carpinelli, 111 - Pontal, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 2107-3887",
+    "website": "http://www.gekopousada.com/",
+    "rating": 4.2,
+    "totalRatings": 658,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Pousada Sonho Meu",
+    "address": "R. João Luiz do Rosário, N 38 - Patitiba, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99813-7033",
+    "website": "http://www.pousadasonhomeuparaty.com.br/",
+    "rating": 4.6,
+    "totalRatings": 334,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Pousada Marques",
+    "address": "R. Profa. Rosária Gibrail, 155 - Patitiba, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 3371-2189",
+    "website": "No website",
+    "rating": 4.3,
+    "totalRatings": 280,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Pousada Villa Del Sol Paraty | Pousada com Piscina Privativa em Paraty, Com Banheira de Hidromassagem",
+    "address": "R. Floresta, 124 - Parque Imperial, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 3372-1400",
+    "website": "http://www.villadelsol.com.br/",
+    "rating": 4.2,
+    "totalRatings": 2053,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
@@ -90,82 +120,22 @@
     "priceLevel": "Not available"
   },
   {
-    "name": "Pousada Sonho Meu",
-    "address": "R. João Luiz do Rosário, N 38 - Patitiba, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99813-7033",
-    "website": "http://www.pousadasonhomeuparaty.com.br/",
-    "rating": 4.6,
-    "totalRatings": 333,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
-    "name": "Pousada Estrela do Mar Paraty",
-    "address": "R. Dom Pedro I, 145 - Jabaquara, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3038-0412",
-    "website": "https://estreladomarparaty.com/",
-    "rating": 4.6,
-    "totalRatings": 629,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
-    "name": "Geko Pousada Paraty",
-    "address": "Av. Orlando Carpinelli, 111 - Pontal, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 2107-3887",
-    "website": "http://www.gekopousada.com/",
-    "rating": 4.2,
-    "totalRatings": 652,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
-    "name": "Pousada Romã",
-    "address": "R. Pres. Pedreira, 954 - Centro, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3371-1864",
-    "website": "https://www.instagram.com/paraty_pousadaroma?igsh=MXJxOHExaWJhcnFxcQ==",
-    "rating": 4.5,
-    "totalRatings": 203,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
-    "name": "Pousada Maravilha de Paraty",
-    "address": "Rua João do Prado - R. da Chácara, 14 - Patitiba, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3372-1400",
-    "website": "http://www.maravilhadeparaty.com.br/",
-    "rating": 4.4,
-    "totalRatings": 387,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
-    "name": "Pousada Fortaleza",
-    "address": "R. Abel Oliveira, 62 - Patitiba, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3371-2204",
-    "website": "https://www.instagram.com/fortalezaparaty/",
-    "rating": 4.3,
-    "totalRatings": 935,
-    "status": "OPERATIONAL",
-    "priceLevel": "Not available"
-  },
-  {
-    "name": "Pousada Manga Rosa",
-    "address": "R. Inconfidência Amaral Gurgel, 60 - Pontal, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99908-9922",
+    "name": "Lofts Corujinha Paraty",
+    "address": "R. Azulão, 101B - Caborê, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99844-5122",
     "website": "No website",
-    "rating": 4.8,
-    "totalRatings": 97,
+    "rating": 5,
+    "totalRatings": 4,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
   {
-    "name": "Lua Clara",
-    "address": "R. Flamboiant, 13 - Vila Colonial, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99965-4857",
-    "website": "https://pousadaluaclara.com.br/",
-    "rating": 4.4,
-    "totalRatings": 1068,
+    "name": "Container Hospedaria Paraty",
+    "address": "Av. Imperial, 74 - Portao de Ferro 2, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99268-0521",
+    "website": "https://www.booking.com/Share-iKKeSzW",
+    "rating": 4.8,
+    "totalRatings": 95,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
@@ -175,27 +145,77 @@
     "phoneNumber": "(24) 99963-0620",
     "website": "https://api.whatsapp.com/send?l=pt-BR&phone=24999630620&text=Ol%C3%A1%2C%20Vim%20pelo%20Google.",
     "rating": 3.9,
-    "totalRatings": 33,
+    "totalRatings": 34,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
   {
-    "name": "Imperatriz Paraty Hotel | com Piscina Privativa",
-    "address": "R. Guapuruvu, 731 - Caborê, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 3372-1400",
-    "website": "https://imperatrizparatyhotel.com.br/",
-    "rating": 4.3,
-    "totalRatings": 2140,
+    "name": "Pousada Estrela do Mar Paraty",
+    "address": "R. Dom Pedro I, 145 - Jabaquara, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 3038-0412",
+    "website": "https://estreladomarparaty.com/",
+    "rating": 4.6,
+    "totalRatings": 653,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
   {
-    "name": "Pousada cores do mar",
-    "address": "R. 22 de Abril, 74 - Praia Jabaquara, Paraty - RJ, 23970-000, Brazil",
-    "phoneNumber": "(24) 99273-5775",
-    "website": "https://wa.me/5524992735775?text=Ol%C3%A1%20vim%20pelo%20Google%20e%20quero%20saber%20mais!",
-    "rating": 4.3,
-    "totalRatings": 452,
+    "name": "Pousada Portal de Paraty",
+    "address": "Av. Octávio Gama, 1752 - Portal das Artes, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 3371-2373",
+    "website": "http://www.pousadaportaldeparaty.com.br/",
+    "rating": 4.2,
+    "totalRatings": 427,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Pousada Romã",
+    "address": "R. Pres. Pedreira, 954 - Centro, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 3371-1864",
+    "website": "https://www.instagram.com/paraty_pousadaroma?igsh=MXJxOHExaWJhcnFxcQ==",
+    "rating": 4.5,
+    "totalRatings": 205,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Pousada Manga Rosa",
+    "address": "R. Inconfidência Amaral Gurgel, 60 - Pontal, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99908-9922",
+    "website": "No website",
+    "rating": 4.8,
+    "totalRatings": 100,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Pousada Mandaluz",
+    "address": "R. F - Mangueira, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99934-9462",
+    "website": "https://reservas.desbravador.com.br/hotel-app/pousada-mandaluz",
+    "rating": 4.4,
+    "totalRatings": 232,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Pousada Princesa do Mar",
+    "address": "Av. Jabaquara, 20 - frente - Jabaquara, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99836-6243",
+    "website": "https://www.bellaspiaggia.com.br/pt-br/",
+    "rating": 3.9,
+    "totalRatings": 181,
+    "status": "OPERATIONAL",
+    "priceLevel": "Not available"
+  },
+  {
+    "name": "Pousada Solar das Margaridas",
+    "address": "Rua 8 de março antiga - R. André Luís de Alcântara, 137 - Vila Colonial, Paraty - RJ, 23970-000, Brazil",
+    "phoneNumber": "(24) 99201-3712",
+    "website": "No website",
+    "rating": 4.1,
+    "totalRatings": 287,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   },
@@ -205,7 +225,7 @@
     "phoneNumber": "(24) 3371-8736",
     "website": "No website",
     "rating": 4.6,
-    "totalRatings": 396,
+    "totalRatings": 399,
     "status": "OPERATIONAL",
     "priceLevel": "Not available"
   }
